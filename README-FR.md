@@ -1,5 +1,5 @@
 ---
-title: Lignes directrices sur la transparence de technologies axées sur les données au sein du gouvernement
+Lignes directrices sur la transparence de technologies axées sur les données au sein du gouvernement
 ---
 
 Ce guide présente 8 points qui contribuent à réduire les risques et à maximiser
@@ -17,27 +17,27 @@ Table des matières
 ------------------
 
 [1. Identifier les décisions fondées sur des
-données](#identifier-les-décisions-fondées-sur-des-données)
+données](#1-identifier-les-décisions-fondées-sur-des-données)
 
 [2. Garder les personnes à l’esprit et les tenir au
-courant](#garder-les-personnes-à-lesprit-et-les-tenir-au-courant)
+courant](#2-garder-les-personnes-à-lesprit-et-les-tenir-au-courant)
 
 [3. Aviser le public et fournir des canaux de communication
-clairs](#aviser-le-public-et-fournir-des-canaux-de-communication-clairs)
+clairs](#3-aviser-le-public-et-fournir-des-canaux-de-communication-clairs)
 
 [4. Évaluer les attentes et les
-résultats](#évaluer-les-attentes-et-les-résultats)
+résultats](#4-évaluer-les-attentes-et-les-résultats)
 
-[5. Permettre un accès véritable](#permettre-un-accès-véritable)
+[5. Permettre un accès véritable](#5-permettre-un-accès-véritable)
 
-[6. Décrire les données connexes](#décrire-les-données-connexes)
+[6. Décrire les données connexes](#6-décrire-les-données-connexes)
 
 [7. Renforcer les règles, exigences et la reddition de
-comptes](#renforcer-les-règles-exigences-et-la-reddition-de-comptes)
+comptes](#7-renforcer-les-règles-exigences-et-la-reddition-de-comptes)
 
-[8. Mise à jour régulière](#mise-à-jour-régulière)
+[8. Mise à jour régulière](#8-mise-à-jour-régulière)
 
-1. Identifier les décisions fondées sur des données
+1 Identifier les décisions fondées sur des données
 ---------------------------------------------------
 
 Les petites et grandes décisions sont fondées sur des données, grâce à des
@@ -96,7 +96,7 @@ influencer des décisions, notamment :
 S’assurer que tous les éléments sont inclus dans l’inventaire de données, avec
 des métadonnées complètes et à jour.
 
-2. Garder les personnes à l’esprit et les tenir au courant
+2 Garder les personnes à l’esprit et les tenir au courant
 ----------------------------------------------------------
 
 Être conscient de ceux qui profiteront le plus et ceux qui seront le plus
@@ -158,7 +158,7 @@ auditoires qui doivent être impliqués, informés ou consultés.
     la formule de notation afin de promouvoir l’utilisation collaborative de ce
     type d’outils entre le gouvernement et les clients/demandeurs/etc.
 
-3. Aviser le public et fournir des canaux de communication clairs
+3 Aviser le public et fournir des canaux de communication clairs
 -----------------------------------------------------------------
 
 Respecter le droit du public de savoir quand et comment une décision ou un
@@ -233,7 +233,7 @@ Mettre en place des canaux de communication afin de :
     échéant, de contester l’utilisation de la technologie, les potentiels
     résultats, voire l’approche en matière de reddition de comptes
 
-4. Évaluer les attentes et les résultats
+4 Évaluer les attentes et les résultats
 ----------------------------------------
 
 Plusieurs administrations procèdent à des essais bêta dans le cadre
@@ -270,7 +270,7 @@ programme ou service, les potentiels outils d’évaluation peuvent inclure :
 -   Évaluation de l’incidence algorithmique développée par le gouvernement
     canadien
 
-5. Permettre un accès véritable
+5 Permettre un accès véritable
 -------------------------------
 
 L’IA ainsi que d’autres technologies axées sur les données sont souvent
@@ -307,7 +307,7 @@ permettent d’identifier et de détecter des problèmes.
 -   Publication ou avis public concernant les résultats d’audit ou de travaux de
     recherche
 
-6. Décrire les données connexes
+6 Décrire les données connexes
 -------------------------------
 
 Aucune donnée n’est parfaite. Au fur et à mesure que les machines sont formées,
@@ -339,7 +339,7 @@ Identifier et décrire :
 
 -   Quels biais existent au sein des données (réels et éventuels)?
 
-7. Renforcer les règles, exigences et la reddition de comptes
+7 Renforcer les règles, exigences et la reddition de comptes
 -------------------------------------------------------------
 
 La transparence doit, à l’échelle locale et mondiale, favoriser le système de
@@ -382,7 +382,7 @@ notamment :
 -   Toute norme spécifique à un secteur, lié à l’outil, au système ou à la
     communauté cible
 
-8. Mise à jour régulière
+8 Mise à jour régulière
 ------------------------
 
 Les technologies axées sur les données, particulièrement l’apprentissage
