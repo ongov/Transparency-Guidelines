@@ -9,7 +9,7 @@ We encourage you to read this project's contributing policy (you are here), its 
 
 You can share your thoughts and ideas by:
 
-* emailing us at amy.bihari@ontario.ca
+* emailing amy.bihari@ontario.ca
 * forking our GitHub repository
 
 ### By email
