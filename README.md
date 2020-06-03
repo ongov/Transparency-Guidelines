@@ -9,7 +9,7 @@ and services through transparency.
 *We’re in the early days of bringing these guidelines to life. We encourage you
 to adopt as much of the guidelines as possible, and to share your feedback with
 us. You can send us an email *<amy.bihari@ontario.ca>*, or
-see CONTRIBUTING.md for more details.*
+see [CONTRIBUTING.md](https://github.com/ongov/Transparency-Guidelines/blob/master/CONTRIBUTING.md) for more details.*
 
 Table of Contents
 ---------------------
