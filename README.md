@@ -1,5 +1,5 @@
 ---
-"Transparency Guidelines for Data-Driven Technology in Government"
+Transparency Guidelines for Data-Driven Technology in Government
 ---
 
 This guide sets out 8 points to help minimize the risks and maximize the
@@ -32,7 +32,7 @@ Reporting](#s7.-upport-rules-requirements-and-reporting)
 
 [8. Update Regularly](#8.-update-regularly)
 
-\#1. Identify Data Enhanced Decisions
+\1. Identify Data Enhanced Decisions
 ---------------------------------------
 
 Data is used to enhance decisions in big and small ways using increasingly
@@ -82,7 +82,7 @@ such as:
 Ensure all elements are included in a Data Asset Inventory with complete and
 updated metadata.
 
-\#2. Keep People in Focus and in the Loop
+\2. Keep People in Focus and in the Loop
 -------------------------------------------
 
 Be aware of who will benefit most and who will be impacted both directly and
@@ -136,7 +136,7 @@ consulted.
     scoring formulae to foster collaborative use of these types of tools between
     government and clients/applicants/etc.
 
-\#3. Provide Public Notice and Clear Communication Channels
+\3. Provide Public Notice and Clear Communication Channels
 -------------------------------------------------------------
 
 Respect the public’s right to know when and how data enhancements to a decision
@@ -202,7 +202,7 @@ Establish communication channels to:
     necessary, dispute the use of technology, any outcomes or even the approach
     to accountability
 
-\#4. Assess Expectations and Outcomes
+\4. Assess Expectations and Outcomes
 ---------------------------------------
 
 Many jurisdictions are beta testing impact assessments to support safe and
@@ -233,7 +233,7 @@ potential assessment tools may include:
 
 -   Canadian Algorithmic Impact Assessment
 
-\#5. Allow Meaningful Access
+\5. Allow Meaningful Access
 ------------------------------
 
 AI and other data-driven technologies are often complex and/or proprietary
@@ -263,7 +263,7 @@ Develop a process for applying for meaningful access that includes:
 
 -   Publication or public notice of audit results or academic findings
 
-\#6. Describe Related Data
+\6. Describe Related Data
 ----------------------------
 
 No data is perfect. As machines begin to learn how to learn they have the power
@@ -293,7 +293,7 @@ Identify and describe:
 
 -   What biases exist within the data (known and possible)?
 
-\#7. Support Rules, Requirements and Reporting
+\7. Support Rules, Requirements and Reporting
 ------------------------------------------------
 
 Transparency should support local and global governance guiding AI, Automated
@@ -330,7 +330,7 @@ standards such as:
 -   Any sector specific standards relating to the tool, system or target
     community
 
-\#8. Update Regularly
+\8. Update Regularly
 -----------------------
 
 The nature of data-driven technologies, especially Machine Learning, is dynamic,
