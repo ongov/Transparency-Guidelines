@@ -229,9 +229,9 @@ actual impact and outcomes.
 Depending on the technological elements used in the process, program or service
 potential assessment tools may include:
 
--   Ontario’s Digital Service Standard
+-   [Ontario’s Digital Service Standard](https://github.com/ONgov/Digital-Service-Standard)
 
--   Canadian Algorithmic Impact Assessment
+-   [Canadian Algorithmic Impact Assessment](https://www.canada.ca/en/government/system/digital-government/modern-emerging-technologies/responsible-use-ai/algorithmic-impact-assessment.html)
 
 5 Allow Meaningful Access
 ------------------------------
@@ -319,9 +319,9 @@ Document how the use of data-driven technologies in the process, program or
 service aligns with ethical principles, governance frameworks and industry
 standards such as:
 
--   Canada’s Directive on Automated Decision-Making
+-   [Canada’s Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 
--   National Standard of Canada for Automated Decision Systems
+-   [National Standard of Canada for Automated Decision Systems](https://ciostrategycouncil.com/2019/10/cio-strategy-council-publishes-national-standard-of-canada-for-automated-decision-systems/)
 
 -   Legal concepts like due process
 
