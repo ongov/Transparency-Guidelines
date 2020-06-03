@@ -6,10 +6,12 @@ This guide sets out 8 points to help minimize the risks and maximize the
 benefits of using data-driven technologies within government processes, programs
 and services through transparency.
 
-*We’re in the early days of bringing these guidelines to life. We encourage you
+We’re in the early days of bringing these guidelines to life. We encourage you
 to adopt as much of the guidelines as possible, and to share your feedback with
 us. You can send us an email *<amy.bihari@ontario.ca>*, or
-see [CONTRIBUTING.md](https://github.com/ongov/Transparency-Guidelines/blob/master/CONTRIBUTING.md) for more details.*
+see [CONTRIBUTING.md](https://github.com/ongov/Transparency-Guidelines/blob/master/CONTRIBUTING.md) for more details.
+
+You can also check out the [Alpha Principles of Ethical Use](https://github.com/ongov/Ontario-AI-Principles) 
 
 Table of Contents
 ---------------------
