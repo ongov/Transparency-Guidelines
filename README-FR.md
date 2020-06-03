@@ -13,6 +13,8 @@ transmettre vos commentaires. Vous pouvez nous envoyer un courriel à
 <amy.bihari@ontario.ca>, ou consulter [CONTRIBUTIONS-FR.md](https://github.com/ongov/Transparency-Guidelines/blob/master/CONTRIBUTING-FR.md) pour obtenir de plus
 amples renseignements.
 
+Consultez aussi [les principes «alpha» pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/README-FR.md)
+
 Table des matières
 ------------------
 
