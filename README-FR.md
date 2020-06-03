@@ -265,10 +265,10 @@ déterminer l’impact réel et les résultats.
 En fonction des éléments technologiques utilisés dans le cadre du processus,
 programme ou service, les potentiels outils d’évaluation peuvent inclure :
 
--   Norme des services numériques de l’Ontario
+-   [Norme des services numériques de l’Ontario](https://github.com/ONgov/Digital-Service-Standard)
 
--   Évaluation de l’incidence algorithmique développée par le gouvernement
-    canadien
+-   [Évaluation de l’incidence algorithmique développée par le gouvernement
+    canadien](https://www.canada.ca/fr/gouvernement/systeme/gouvernement-numerique/technologiques-modernes-nouveaux/utilisation-responsable-ai/evaluation-incidence-algorithmique.html)
 
 5 Permettre un accès véritable
 -------------------------------
@@ -370,9 +370,9 @@ données dans le cadre de processus, programmes ou services s’harmonise avec l
 principes éthiques, les cadres de gouvernance et les normes de l’industrie,
 notamment :
 
--   Directive du Canada sur la prise de décision automatisée
+-   [Directive du Canada sur la prise de décision automatisée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592)
 
--   Norme nationale du Canada sur les systèmes décisionnels automatisés
+-   [Norme nationale du Canada sur les systèmes décisionnels automatisés](https://ciostrategycouncil.com/accueil/)
 
 -   Concepts juridiques tels que la procédure équitable
 
