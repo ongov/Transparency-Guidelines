@@ -1,6 +1,6 @@
 # License
 
-This project is copyright the Queen’s Printer in Ontario.
+This project is copyright the [Queen’s Printer for Ontario](https://www.ontario.ca/page/copyright-information-c-queens-printer-ontario).
 
 This work is further licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
