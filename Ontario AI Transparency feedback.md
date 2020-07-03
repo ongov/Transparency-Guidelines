@@ -10,24 +10,17 @@ Les commentaires sont uniquement disponibles dans la langue dans laquelle ils
 ont été reçus. Il a été résumé pour anonymiser les contributeurs et se
 concentrer sur des notes et suggestions constructives.
 
-----
-
-## On this page
-{:.no_toc}
-
-- TOC
-{:toc}
-
-----
 
 [General feedback |Commentaires générales](#general)
 
 [Transparency Guidelines | Lignes directrices sur la transparence](#transparency)
 
-[Ethical Principles | Principes pour une utilisation éthique](#ethical-principles)
+[Ethical Principles | Principes pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/Ontario-AI-Principles-Feedback.md)
 
 General feedback | Commentaires générales <a name="general"></a>
 ==========================================
+
+[Memo from the Law Commission of Ontario](https://github.com/ongov/Transparency-Guidelines/blob/master/LCO-Memo-to-ODS---June-30-2020.pdf)
 
 There is some overlap between the AI Principles and the Transparency Principles. While there don’t appear to be contradictions between them, wondering why they are kept separate?
 
@@ -113,5 +106,5 @@ Another bullet which could be added is below, adapted from the [Digital Nations 
 
 This principle would add more value if a timeline of updates was provided, e.g. on an annual basis, each time the system receives a major update or when its model gets retrained. Alternatively, guidelines on the frequency could be given, for example that it should be commensurate to the risks/importance of the decision and the frequency at which the model is updated.
 
-Ethical Principles | Principes pour une utilisation éthique
+[Ethical Principles | Principes pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/Ontario-AI-Principles-Feedback.md)
 ============================================================
