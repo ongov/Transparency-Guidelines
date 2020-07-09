@@ -15,7 +15,7 @@ concentrer sur des notes et suggestions constructives.
 
 [Transparency Guidelines | Lignes directrices sur la transparence](#transparency)
 
-[Ethical Principles | Principes pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/Ontario%20AI%20Principles%20Feedback.md)
+[Ethical Principles | Principes pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/Ontario%20AI%20Principles%20feedback.md)
 
 General feedback | Commentaires générales <a name="general"></a>
 ==========================================
@@ -106,5 +106,5 @@ Another bullet which could be added is below, adapted from the [Digital Nations 
 
 This principle would add more value if a timeline of updates was provided, e.g. on an annual basis, each time the system receives a major update or when its model gets retrained. Alternatively, guidelines on the frequency could be given, for example that it should be commensurate to the risks/importance of the decision and the frequency at which the model is updated.
 
-[Ethical Principles | Principes pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/Ontario%20AI%20Principles%20Feedback.md)
+[Ethical Principles | Principes pour une utilisation éthique](https://github.com/ongov/AI-Principles/blob/master/Ontario%20AI%20Principles%20feedback.md)
 ============================================================
