@@ -323,7 +323,7 @@ standards such as:
 
 -   [Canada’s Directive on Automated Decision-Making](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=32592)
 
--   [National Standard of Canada for Automated Decision Systems](https://ciostrategycouncil.com/2019/10/cio-strategy-council-publishes-national-standard-of-canada-for-automated-decision-systems/)
+-   [National Standard of Canada for Automated Decision Systems](https://ciostrategycouncil.com/standards/101_2019/)
 
 -   Legal concepts like due process
 
