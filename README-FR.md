@@ -374,7 +374,7 @@ notamment :
 
 -   [Directive du Canada sur la prise de décision automatisée](https://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=32592)
 
--   [Norme nationale du Canada sur les systèmes décisionnels automatisés](https://ciostrategycouncil.com/accueil/)
+-   [Norme nationale du Canada sur les systèmes décisionnels automatisés](https://ciostrategycouncil.com/normes-2/conception-ethique/?lang=fr)
 
 -   Concepts juridiques tels que la procédure équitable
 
